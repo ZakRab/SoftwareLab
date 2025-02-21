@@ -1,0 +1,1 @@
+refactored the code with dividing by -1 and just checking whetther or no the number was negative
